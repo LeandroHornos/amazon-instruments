@@ -22,12 +22,15 @@ Description of columns in the file:
 	<li>unixReviewTime - time of the review (unix time)</li>
 	<li>reviewTime - time of the review (raw)</li>
 </ol>
+
 ## Task
 You have to perform Sentimental Analysis for this data. Help the organization to understand better about their customer feedback's So that they can concentrate on those issues customer's are facing. Build the model which has highest accuracy in classifying the feedback as positive,Negative and neutral.
+
 ### Task :1
 You have to categorize opinions expressed in feedback forums
-###Task :2
+
+### Task :2
 You have to classify individual comments/reviews and you have to determine overall rating based on individual comments/reviews.
 
-##Inspiration
+## Inspiration
 This is the Problem Statement given by ISRO to classify the customer comments. This would be helpful for the organization to understand Customer feedbacks.
